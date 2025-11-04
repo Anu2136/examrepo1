@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print current date
-        run: echo "Current datetime: $(date)"
+        run: echo "Current datetime:$(date)"
